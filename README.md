@@ -8,7 +8,8 @@ Um Micro-Framework são Frameworks modularizados que possuem uma estrutura inici
 
 Pense em um Micro-Framework como uma peça de lego. Inicialmente, um projeto criado com o micro-framework possui apenas o básico para funcionar, (normalmente, sistema de rotas), porém, ao decorrer do projeto, podem haver necessidades para utilização de outros recursos como, conexão de banco de dados, sistemas de templates, envio de email, etc. A partir desta necessidade, novas bibliotecas são “encaixadas” no projeto, como uma estrutura de lego.
 
-https://dkrn4sk0rn31v.cloudfront.net/2019/09/27152422/13.png
+https://dkrn4sk0rn31v.cloudfront.net/2019/09/27152422/13.png  
+
 
 
 
