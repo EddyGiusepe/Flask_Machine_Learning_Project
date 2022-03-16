@@ -10,8 +10,22 @@ Pense em um Micro-Framework como uma peça de lego. Inicialmente, um projeto cri
 
 ![image](https://user-images.githubusercontent.com/69597971/158500581-a2ee946b-11aa-4ffe-b54a-e5d597be406e.png)
 
+## O que é [Flask](https://www.treinaweb.com.br/blog/o-que-e-flask)? 
+
+Lançado em 2010 e desenvolvido por Armin Ronacher, o ``Flask é um micro-framework`` destinado principalmente a pequenas aplicações com requisitos mais simples, como **por exemplo**, a criação de um site básico.
+
+Possui um núcleo simples e expansível que permite que um projeto possua apenas os recursos necessários para sua execução (conforme surja a necessidade, um novo pacote pode ser adicionado para incrementar as funcionalidades da aplicação).
 
 
+## Características do Flask
+
+* ``Simplicidade:`` por possuir apenas o necessário para o desenvolvimento de uma aplicação, um projeto escrito com Flask é mais simples se comparado aos frameworks maiores, já que a quantidade de arquivos é muito menor e sua arquitetura é muito mais simples.
+
+* ``Rapidez no desenvolvimento:`` com o Flask, o desenvolvedor se preocupa em apenas desenvolver o necessário para um projeto, sem a necessidade de realizar configurações que muitas vezes não são utilizadas.
+
+* ``Projetos menores:`` por possuir uma arquitetura muito simples (um único arquivo inicial) os projetos escritos em Flask tendem a ser menores e mais leves se comparados a frameworks maiores.
+
+* ``Aplicações robustas:`` apesar de ser um micro-framework, o Flask permite a criação de aplicações robustas, já que é totalmente personalizável, permitindo, caso necessário, a criação de uma arquitetura mais definida.
 
 
 
