@@ -28,7 +28,7 @@ Possui um núcleo simples e expansível que permite que um projeto possua apenas
 * ``Aplicações robustas:`` apesar de ser um micro-framework, o Flask permite a criação de aplicações robustas, já que é totalmente personalizável, permitindo, caso necessário, a criação de uma arquitetura mais definida.
 
 
-# Interface do nosso Modelo para: Car price prediction
+# Interface do nosso Modelo: Car price prediction
 
 ![image](https://user-images.githubusercontent.com/69597971/158734231-fa7775bf-5dbe-4e32-a452-e06ed72dac82.png)
 
